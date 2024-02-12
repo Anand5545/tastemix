@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196945139975",
+    "project_id": "tastemix-2k24",
+    "storage_bucket": "tastemix-2k24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196945139975:android:20dc521b3ff8d8388c4da2",
+        "android_client_info": {
+          "package_name": "com.example.tastemix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHwLAD12CRjChq-lytRVBNQ-n5zJFKVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
